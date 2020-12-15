@@ -2,8 +2,7 @@
 
 ## Loki
 
-Projet réalisé pour le module d'Info0303 de la deuxième année de licence d'informatique de l'UFR Sciences Exactes et Naturelles.
-
+Projet réalisé avec le framework Laravel (v8) pour le module d'Info0303 de la deuxième année de licence d'informatique de l'UFR Sciences Exactes et Naturelles.
 
 ## But
 
