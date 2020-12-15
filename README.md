@@ -6,7 +6,7 @@ Projet réalisé avec le framework Laravel (v8) pour le module d'Info0303 de la 
 
 ## But
 
-Le but de ce projet et de pouvoir gérer le présentiel (présent, absent, justifiée et distance) des étduaiants de l'UFR par séance.*
+Le but de ce projet et de pouvoir gérer le présentiel (présent, absent, justifiée et distance) des étduaiants de l'UFR par séance.
 
 ## Crédits
 
