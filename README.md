@@ -2,7 +2,7 @@
 
 ## Loki
 
-Projet réalisé pour le module d'Info0303 de UFR Sciences Exactes et Naturelles.
+Projet réalisé pour le module d'Info0303 de l'UFR Sciences Exactes et Naturelles.
 
 
 ## But
