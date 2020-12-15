@@ -7,4 +7,8 @@ Projet réalisé pour le module d'Info0303 de l'UFR Sciences Exactes et Naturell
 
 ## But
 
-Le but de ce projet et de pouvoir gérer le présentiel (présent, absent, justifiée et distance) des étduaiants de l'UFR par séance.
+Le but de ce projet et de pouvoir gérer le présentiel (présent, absent, justifiée et distance) des étduaiants de l'UFR par séance.*
+
+## Crédits
+
+Corentin & Owen
