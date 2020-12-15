@@ -2,7 +2,7 @@
 
 ## Loki
 
-Projet réalisé pour le module d'Info0303 de l'UFR Sciences Exactes et Naturelles.
+Projet réalisé pour le module d'Info0303 de la deuxième année de licence d'informatique de l'UFR Sciences Exactes et Naturelles.
 
 
 ## But
@@ -11,4 +11,4 @@ Le but de ce projet et de pouvoir gérer le présentiel (présent, absent, justi
 
 ## Crédits
 
-Corentin & Owen (étudiants en L2)
+Corentin & Owen
