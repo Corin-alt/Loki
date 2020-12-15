@@ -11,4 +11,4 @@ Le but de ce projet et de pouvoir gérer le présentiel (présent, absent, justi
 
 ## Crédits
 
-Corentin & Owen
+Corentin & Owen (étudiants en L2)
