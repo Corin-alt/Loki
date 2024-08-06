@@ -2,12 +2,9 @@
 
 ## Loki
 
-Projet réalisé avec le framework Laravel (v8) pour le module d'Info0303 de la deuxième année de licence d'informatique de l'UFR Sciences Exactes et Naturelles.
+Project created with the Laravel framework (v8) for the Info0303 module in the second year of the Computer Science degree program at the UFR Sciences Exactes et Naturelles.
 
-## But
+## Goal
 
-Le but de ce projet et de pouvoir gérer le présentiel (présent, absent, justifiée et distance) des étdiants de l'UFR pour chaque séance.
+The aim of this project is to manage the attendance (present, absent, justified and distance) of UFR students for each session.
 
-## Crédits
-
-Corentin & Owen
